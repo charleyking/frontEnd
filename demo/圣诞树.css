@@ -1,0 +1,41 @@
+.tri {
+	height: 0px;
+	width: 0px;
+	background: blue;
+	border-bottom: 100px solid black;
+	border-left: 100px solid white;
+	border-right: 100px solid white;
+}
+
+.tri2 {
+	height: 0px;
+	width: 0px;
+	background: blue;
+	border-bottom: 100px solid red;
+	border-left: 100px solid white;
+	border-right: 100px solid white;
+}
+.tri3 {
+	height: 0px;
+	width: 0px;
+	background: blue;
+	border-bottom: 100px solid blue;
+	border-left: 100px solid white;
+	border-right: 100px solid white;
+}
+.tri4 {
+	height: 0px;
+	width: 0px;
+	background: blue;
+	border-bottom: 100px solid yellow;
+	border-left: 100px solid white;
+	border-right: 100px solid white;
+}
+
+.rec {
+	width: 10px;
+	height: 100px;
+	background: orange;
+	margin-left: 95px;
+}
+
