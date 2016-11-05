@@ -3,4 +3,4 @@
 
 homepage looks like
 
-![img](./qqHomepage.png)
+![qqHomepage](./qqHomepage.png)
